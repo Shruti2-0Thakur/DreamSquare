@@ -22,3 +22,6 @@ The project includes:
 
 <h3>Unlock your potential and elevate your skills by browsing our selection of courses designed to empower your professional journey.</h3>
 <img src="https://drive.google.com/file/d/1RURrjRVFt77mOOMRANnMMCJ-azHscWVy/view?usp=sharing" alt="" >
+
+<h3>Embark on your online learning journey right here, where knowledge knows no bounds and possibilities are endless.</h3>
+<img src="https://drive.google.com/file/d/1wgsUebqzf5b8ByIy7gPbCuFgy1arX7xd/view?usp=sharing" alt="" >
