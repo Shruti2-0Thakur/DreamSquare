@@ -16,9 +16,14 @@ The project includes:
     <li><strong>Optimized Workflow Efficiency:</strong> Dream Square has optimized workflow efficiency by slashing paperwork by 50%, allowing for smoother operations and enhanced productivity.</li>
 </ul>
 
-# Visiuals
+# Visuals
 <h5>Explore a diverse range of insightful blogs and deepen your knowledge with just a click.</h5>
-<img src="https://drive.google.com/file/d/1Wb0Og2MVRPUjji5pccprT4mSiKd04xHk/view?usp=sharing" alt="" >
+![Explore Blogs](https://raw.githubusercontent.com/Shruti2-0Thakur/DreamSquare/master/dreamsquare/blog.png)
+
+
+
+
+
 
 <h5>Unlock your potential and elevate your skills by browsing our selection of courses designed to empower your professional journey.</h5>
 <img src="https://drive.google.com/file/d/1RURrjRVFt77mOOMRANnMMCJ-azHscWVy/view?usp=sharing" alt="" >
