@@ -18,7 +18,7 @@ The project includes:
 
 # Visuals
 <h5>Explore a diverse range of insightful blogs and deepen your knowledge with just a click.</h5>
-<img src="https://imgur.com/SEd19by">
+<img src="https://drive.google.com/file/d/1Wb0Og2MVRPUjji5pccprT4mSiKd04xHk/view?usp=sharing">
 
 
 
