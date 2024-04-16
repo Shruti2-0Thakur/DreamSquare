@@ -21,12 +21,7 @@ The project includes:
 <img src="https://drive.google.com/file/d/1Wb0Og2MVRPUjji5pccprT4mSiKd04xHk/view?usp=sharing">
 
 
-
-
-
-
 <h5>Unlock your potential and elevate your skills by browsing our selection of courses designed to empower your professional journey.</h5>
-<img src="https://drive.google.com/file/d/1RURrjRVFt77mOOMRANnMMCJ-azHscWVy/view?usp=sharing" alt="" >
-
+<img src="https://drive.google.com/drive/u/0/folders/1H2gT8IIM-3eOmfRW_0uJVlJS2yb7hysF">
 <h5>Embark on your online learning journey right here, where knowledge knows no bounds and possibilities are endless.</h5>
 <img src="https://drive.google.com/file/d/1wgsUebqzf5b8ByIy7gPbCuFgy1arX7xd/view?usp=sharing" alt="" >
