@@ -17,11 +17,11 @@ The project includes:
 </ul>
 
 # Visiuals
-<h3>Explore a diverse range of insightful blogs and deepen your knowledge with just a click.</h3>
+<h5>Explore a diverse range of insightful blogs and deepen your knowledge with just a click.</h5>
 <img src="https://drive.google.com/file/d/1Wb0Og2MVRPUjji5pccprT4mSiKd04xHk/view?usp=sharing" alt="" >
 
-<h3>Unlock your potential and elevate your skills by browsing our selection of courses designed to empower your professional journey.</h3>
+<h5>Unlock your potential and elevate your skills by browsing our selection of courses designed to empower your professional journey.</h5>
 <img src="https://drive.google.com/file/d/1RURrjRVFt77mOOMRANnMMCJ-azHscWVy/view?usp=sharing" alt="" >
 
-<h3>Embark on your online learning journey right here, where knowledge knows no bounds and possibilities are endless.</h3>
+<h5>Embark on your online learning journey right here, where knowledge knows no bounds and possibilities are endless.</h5>
 <img src="https://drive.google.com/file/d/1wgsUebqzf5b8ByIy7gPbCuFgy1arX7xd/view?usp=sharing" alt="" >
