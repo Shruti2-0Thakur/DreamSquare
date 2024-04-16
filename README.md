@@ -18,7 +18,7 @@ The project includes:
 
 # Visuals
 <h5>Explore a diverse range of insightful blogs and deepen your knowledge with just a click.</h5>
-![Explore Blogs](https://raw.githubusercontent.com/Shruti2-0Thakur/DreamSquare/master/dreamsquare/blog.png)
+<img src="https://imgur.com/SEd19by">
 
 
 
