@@ -3,6 +3,12 @@ Dream Square is a comprehensive web application designed to provide users with a
 engaging with blogs, and enrolling in courses. Led by a dedicated team under senior guidance, the project demonstrates expertise in HTML, CSS, and JavaScript.
 <br>
 
+
+<div style="display: flex; justify-content: space-around;">
+    <img style="height: 500px; " src="pic1.png"  />
+</div>
+
+
 # Features
 The project includes:
 <ul>
@@ -17,11 +23,26 @@ The project includes:
 </ul>
 
 # Visuals
-<h5>Explore a diverse range of insightful blogs and deepen your knowledge with just a click.</h5>
-<img src="https://drive.google.com/file/d/1Wb0Og2MVRPUjji5pccprT4mSiKd04xHk/view?usp=sharing">
+*Explore a diverse range of insightful blogs and deepen your knowledge with just a click.*
+*Unlock your potential and elevate your skills by browsing our selection of courses designed to empower your professional journey.*
+*Embark on your online learning journey right here, where knowledge knows no bounds and possibilities are endless.*
+
+<div style="display: flex; justify-content: space-around;">
+    <img src="path/pic2.png" width="400" />
+    <img src="path/pic3.png" width="400" />
+   
+</div>
+<div style="display: flex; justify-content: space-around;">
+    <img src="path/pic4.png" width="400" />
+    <img src="path/pic5.png" width="400" />
+   
+</div>
+<div style="display: flex; justify-content: space-around;">
+    <img src="path/pic6.png" width="400" />
+      <img src="path/pic.png" width="400" />
+   
+</div>
 
 
-<h5>Unlock your potential and elevate your skills by browsing our selection of courses designed to empower your professional journey.</h5>
-<img src="https://drive.google.com/file/d/1RURrjRVFt77mOOMRANnMMCJ-azHscWVy/view?usp=sharing">
-<h5>Embark on your online learning journey right here, where knowledge knows no bounds and possibilities are endless.</h5>
-<img src="https://drive.google.com/file/d/1wgsUebqzf5b8ByIy7gPbCuFgy1arX7xd/view?usp=sharing" alt="">
+
+
