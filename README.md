@@ -5,7 +5,7 @@ engaging with blogs, and enrolling in courses. Led by a dedicated team under sen
 
 
 <div style="display: flex; justify-content: space-around;">
-    <img style="height: 500px; " src="pic1.png"  />
+    <img style="" src="pic1.png"  />
 </div>
 
 
