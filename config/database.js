@@ -6,7 +6,7 @@ const pool = createPool({
     user: process.env.DB_USER || 'ufwycdipmnhuyf9d',
     password: process.env.DB_PASS || 'STYStxTPWOHKj6XTCP3Y',
     database: process.env.MYSQL_DB || 'bly92g6wlvtvqdkvwkt7',
-    connectionLimit: 10 // This sets the maximum number of connections in the pool
+    connectionLimit: 9 // This sets the maximum number of connections in the pool
 });
 
 module.exports = pool;
